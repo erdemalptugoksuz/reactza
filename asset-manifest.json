@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactza/static/css/main.a813677f.css",
+    "main.js": "/reactza/static/js/main.6280df54.js",
+    "index.html": "/reactza/index.html",
+    "main.a813677f.css.map": "/reactza/static/css/main.a813677f.css.map",
+    "main.6280df54.js.map": "/reactza/static/js/main.6280df54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a813677f.css",
+    "static/js/main.6280df54.js"
+  ]
+}
